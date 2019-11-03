@@ -1,0 +1,17 @@
+
+
+#feild{
+    display: flex;
+    width:320px;
+    height: 320px;
+    box-sizing: content-box;
+    border: 1px solid black;
+    flex-wrap: wrap;
+   
+}
+.chess-block{
+    width: 40px;
+    height: 40px;
+    background: blue;
+    
+}
